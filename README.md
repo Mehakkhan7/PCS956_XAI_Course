@@ -51,8 +51,8 @@ The course plan below is tentative and may be adjusted slightly depending on pro
 | Week | Topic | Description |
 |:---:|---|---|
 | **[1](https://github.com/Mehakkhan7/PCS956_xai_course/tree/main/Week1/)** | **Introduction to Explainable Artificial Intelligence and its taxonomy** | Introduces the motivation for XAI, model understanding in high-impact applications, stakeholders and explanation needs, and key dimensions of the XAI taxonomy. <br><br> **Python notebooks:** Decision Trees and Intrinsic Interpretability, Feature Importance, Intrinsic vs. Post-hoc Explainability, Global vs. Local Explanations. |
-| **2** | **Post-hoc XAI methods for machine learning and deep learning** | Introduces commonly used explanation methods and examines how the appropriate approach depends on the model, data modality, and explanation objective. Model-specific and model-agnostic methods are considered together with their practical limitations. <br><br> **Python notebooks:** Coming soon |
-| **3** | **Evaluation of explanations and trustworthy AI** | Examines how explanations can be evaluated using functionally grounded, human-grounded, and application-grounded approaches. The week also introduces explanation-quality metrics, sensitivity and perturbation analysis, and the relationship between explainability and trustworthy AI. <br><br> **Python notebooks:** Coming soon |
+| **2** | **Trade-offs Between Accuracy and Explainability in ML Models** | Explores model-specific and model-agnostic explainability methods, while discussing the trade-offs between model accuracy and explainability through practical examples. <br><br> **Python notebooks:** Coming soon |
+| **3** | **XAI Methods and Evaluation of Explainability** | Covers approaches for evaluating explainability methods, including functionally grounded, human-grounded, and application-grounded evaluation, introduces evaluation metrics, and discusses the role of explainability in building trustworthy AI systems. <br><br> **Python notebooks:** Coming soon |
 
 ---
 
