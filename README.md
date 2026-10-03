@@ -10,7 +10,6 @@
 <p align="center">
   <img src="imgs/Icon.png" alt="Explainable Artificial Intelligence (XAI)" width="900">
 </p>
----
 
 ## Course overview
 
