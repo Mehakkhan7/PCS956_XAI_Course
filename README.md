@@ -5,7 +5,7 @@
 **Instructor:** [Mehak Khan](https://www.hvl.no/en/employee/?user=Mehak.Khan)  
 **Institution:** [Western Norway University of Applied Sciences (HVL)](https://www.hvl.no/en/), Bergen, Norway  
 **Course:** PCS956 Research Trends in Applied Machine Learning  
-**Level:** Master’s / PhD  
+**Level:** PhD  
 
 ---
 
