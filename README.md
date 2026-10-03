@@ -44,6 +44,8 @@ By the end of the module, students should be able to:
 
 ## Course plan
 
+The course plan below is tentative and may be adjusted slightly depending on progress and practical needs.
+
 | Week | Topic | Description |
 |:---:|---|---|
 | **[1](https://github.com/Mehakkhan7/PCS956_xai_course/tree/main/Week1/)** | **Introduction to Explainable Artificial Intelligence and its taxonomy** | Introduces the motivation for XAI, model understanding in high-impact applications, stakeholders and explanation needs, and key dimensions of the XAI taxonomy. <br><br> **Python notebooks:** Decision Trees and Intrinsic Interpretability, Feature Importance, Intrinsic vs. Post-hoc Explainability, Global vs. Local Explanations. |
