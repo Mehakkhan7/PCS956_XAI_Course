@@ -7,6 +7,9 @@
 **Course:** PCS956 Research Trends in Applied Machine Learning  
 **Level:** PhD  
 
+<p align="center">
+  <img src="imgs/Icon.png" alt="Explainable Artificial Intelligence (XAI)" width="900">
+</p>
 ---
 
 ## Course overview
