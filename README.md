@@ -88,7 +88,7 @@ Prior experience with deep learning is beneficial but not required.
 
 ## Python environment
 
-The practical notebooks use standard Python libraries for data analysis, machine learning, deep learning, visualisation, and explainability, including:
+The practical notebooks use standard Python libraries for data analysis, machine learning, deep learning, visualization, and explainability, including:
 
 - NumPy
 - pandas
@@ -99,7 +99,7 @@ The practical notebooks use standard Python libraries for data analysis, machine
 - PyTorch
 - Captum
 
-Depending on the topic, additional libraries may be introduced for specific XAI methods, data modalities, or visualisation tasks.
+Depending on the topic, additional libraries may be introduced for specific XAI methods, data modalities, or visualization tasks.
 
 Students are encouraged to use **Google Colab** or a local Python environment with the required packages installed.
 
