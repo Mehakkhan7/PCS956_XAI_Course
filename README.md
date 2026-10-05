@@ -155,4 +155,4 @@ If you use or adapt material from this course, please cite:
 > Khan, M. (2026). *Explainable Artificial Intelligence (XAI): PCS956 Course Module*. Western Norway University of Applied Sciences (HVL).
 
 Repository:
-https://github.com
+[https://github.com](https://github.com/Mehakkhan7/PCS956_XAI_Course)
