@@ -52,7 +52,7 @@ The course plan below is tentative and may be adjusted slightly depending on pro
 |:---:|---|---|
 | **[1](https://github.com/Mehakkhan7/PCS956_xai_course/tree/main/Week1/)** | **Introduction to Explainable Artificial Intelligence and its taxonomy** | Introduces the motivation for XAI, model understanding in high-impact applications, stakeholders and explanation needs, and key dimensions of the XAI taxonomy. <br><br> **Python notebooks:** Decision Trees and Intrinsic Interpretability, Feature Importance, Intrinsic vs. Post-hoc Explainability, Global vs. Local Explanations. |
 | **2** | **Post-hoc Explainability in Machine Learning** | Examines model-specific and model-agnostic XAI methods, including their explanation targets, assumptions, and interpretation. It also discusses the relationship between predictive performance and explainability, emphasising that there is no universal trade-off between them.. <br><br> **Python notebooks:** Post-hoc XAI for Image Classification, Post-hoc XAI for Time-Series Forecasting |
-| **3** | **XAI Methods and Evaluation of Explainability** | Covers approaches for evaluating explainability methods, including functionally grounded, human-grounded, and application-grounded evaluation, introduces evaluation metrics, and discusses the role of explainability in building trustworthy AI systems. <br><br> **Python notebooks:** Coming soon |
+| **3** | **Evaluation of Explainability** | Covers approaches for evaluating explainability methods, including functionally grounded, human-grounded, and application-grounded evaluation, introduces evaluation metrics, and discusses the role of explainability in building trustworthy AI systems. <br><br> **Python notebooks:** Coming soon |
 
 ---
 
