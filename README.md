@@ -7,13 +7,15 @@
 **Course:** PCS956 Research Trends in Applied Machine Learning  
 **Level:** PhD  
 
+> **Note:** This course repository is under active development. Materials may be updated, refined, or expanded throughout the semester. Feedback and suggestions are always welcome.
+
 <p align="center">
   <img src="imgs/Icon.png" alt="Explainable Artificial Intelligence (XAI)" width="900">
 </p>
 
 ## Course overview
 
-Machine-learning and deep-learning models can achieve strong predictive performance, but their internal behaviour is often difficult to inspect and understand. This raises an important question: **how can we investigate what information a model relies on and how this information contributes to its predictions?**
+Machine-learning and deep-learning models can achieve strong predictive performance, but their internal behaviour is often difficult to inspect and understand. This raises an important question: **how can we investigate what information a fitted model appears to rely on and how that information is associated with its predictions?**
 
 These questions become especially important in areas such as healthcare, finance, Earth observation, energy systems, autonomous systems, and scientific decision support, where predictive performance alone may not be enough.
 
@@ -24,6 +26,14 @@ We will start with the main ideas and terminology behind XAI, including intrinsi
 The module also looks critically at the limitations of XAI. An explanation can help us investigate model behaviour, but it does not automatically tell us whether a model is correct, fair, robust, causal, or trustworthy.
 
 The module combines conceptual foundations, Python notebooks, hands-on exercises, discussion, and an individual mini-project.
+
+---
+
+## Repository structure
+
+- `Week1/` — Introduction to XAI and taxonomy
+- `Week2/` — Post-hoc XAI methods and exercises
+- `Week3/` — Evaluation of explanations
 
 ---
 
@@ -156,3 +166,5 @@ If you use or adapt material from this course, please cite:
 
 Repository:
 https://github.com/Mehakkhan7/PCS956_XAI_Course
+
+
