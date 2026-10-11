@@ -31,8 +31,8 @@ The module combines conceptual foundations, Python notebooks, hands-on exercises
 
 ## Repository structure
 
-- `Week1/` — Introduction to XAI and taxonomy
-- `Week2/` — Post-hoc XAI methods and exercises
+- `Week1/` — Introduction to XAI and its taxonomy
+- `Week2/` — Post-hoc XAI methods in Machine Learning 
 - `Week3/` — Evaluation of explanations
 
 ---
