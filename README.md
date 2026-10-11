@@ -7,7 +7,7 @@
 **Course:** PCS956 Research Trends in Applied Machine Learning  
 **Level:** PhD  
 
-> **Note:** This course repository is under active development. Materials may be updated, refined, or expanded throughout the semester. Feedback and suggestions are always welcome.
+> **Note:** This course repository is under active development. Materials may be updated, refined, or expanded throughout the year. Feedback and suggestions are always welcome.
 
 <p align="center">
   <img src="imgs/Icon.png" alt="Explainable Artificial Intelligence (XAI)" width="900">
